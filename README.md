@@ -25,7 +25,7 @@ A final demonstration can be found [here](https://landfill-frontend-challenge.ve
   - [Button](https://chakra-ui.com/docs/form/button)
 4. Search can be implemented for the Landfill's `NAME`, `CITY`, `STATE` and/or `ZIP`. __You're only required to implement one__ of the following search inputs as shown in the final project's demo and video for the purpose of this exercise.
 5. Additional extensions added to the design and/or functionality will be noted for bonus points 🎉!!!
-6. Another opportunity for bonus points, enable horizontally scrolling on the table for mobile layouts!
+6. Another opportunity for bonus points, enable horizontal table scrolling on mobile interfaces!
 
 # Notes
 
