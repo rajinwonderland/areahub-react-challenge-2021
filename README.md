@@ -8,12 +8,12 @@ In this exercise you will create an Landfills table that has search, filtering a
 
 First off, watch the [video](https://youtu.be/cScpqR9ezfE) to see what the end result should look like.
 
-
+https://user-images.githubusercontent.com/15880596/142340467-cc965088-0b6a-4834-9116-b0506e8e37ce.mov
 
 A final demonstration can be found [here](https://landfill-frontend-challenge.vercel.app/). 
 
 > We recommend using your browser's "Inspect" mode along with [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) to get a better sense of which components/styles are being used. 
-
+>
 > All the theme files (colors, styles, and etc) have already been provided under `/styles/*`.
 
 1. [Chakra-UI](https://chakra-ui.com/) is already setup along with the Solid Waste Landfill Facilities endpoint we are going to use.
@@ -23,7 +23,7 @@ A final demonstration can be found [here](https://landfill-frontend-challenge.ve
   - [Badge](https://chakra-ui.com/docs/data-display/badge)
   - [FormControl](https://chakra-ui.com/docs/form/form-control)
   - [Button](https://chakra-ui.com/docs/form/button)
-4. Search can be implemented for the Landfill's `NAME`, `CITY`, `STATE` and/or `ZIP`. _You're only required to implement one_ of the following search inputs as shown in the final project's demo and video for the purpose of this exercise.
+4. Search can be implemented for the Landfill's `NAME`, `CITY`, `STATE` and/or `ZIP`. __You're only required to implement one__ of the following search inputs as shown in the final project's demo and video for the purpose of this exercise.
 5. Additional extensions added to the design and/or functionality will be noted for bonus points 🎉!!!
 6. Another opportunity for bonus points, enable horizontally scrolling on the table for mobile layouts!
 
