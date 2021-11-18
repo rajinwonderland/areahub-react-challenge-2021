@@ -38,7 +38,7 @@ A final demonstration can be found [here](https://landfill-frontend-challenge.ve
 # Setup and Development
 
 1. Fork this repo `https://github.com/rajinwonderland/areahub-react-challenge-2021.git`
-2. Make sure you are inside of the repo you just cloned, by running `cd interview-challenge`
+2. Make sure you are inside of the repo you just cloned, by running `cd areahub-react-challenge-2021`
 3. Run `yarn` to install all dependencies
 4. Run `yarn dev` to start the app
 5. Open `http://localhost:3000` in your browser
